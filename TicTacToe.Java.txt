@@ -1,6 +1,3 @@
-//Name: Giovanni Avila-Fernandez
-//Program: Tic-Tac-Toe
-
 import java.util.Scanner;
 public class Foothill
 {
